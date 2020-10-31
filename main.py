@@ -1,4 +1,4 @@
-import pygame  # https://www.youtube.com/watch?v=FfWpgLFMI7w 2:03:01
+import pygame  
 import math
 import random
 from pygame import mixer
