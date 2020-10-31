@@ -2,4 +2,4 @@
 This silly game features Drake the Pop Star versus the Federal Government of Canada. Written with the PyGame library, this game features collision detection, dynamic enemies, and a scoring system!
 
 
-![alt text](https://github.com/rtlaceste/Game_Development/blob/Screen%20Capt.pngraw=true)
+![alt text](https://github.com/rtlaceste/Game_Development/blob/main/Screen%20capt.PNG)
